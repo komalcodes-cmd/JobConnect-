@@ -1,6 +1,9 @@
 # JobConnect – Full Stack Job Portal
 
 JobConnect is a responsive full-stack job portal built with React, Vite, Node.js, Express and MongoDB. It supports two account types: **Jobseeker** and **Employer**.
+<img width="1761" height="944" alt="Screenshot 2026-11-24 222205" src="https://github.com/user-attachments/assets/578a429f-b100-46c3-9d6a-defc2f62c27b" />
+
+
 
 ## Features
 
@@ -16,16 +19,25 @@ JobConnect is a responsive full-stack job portal built with React, Vite, Node.js
 - Role-based access control (Jobseeker / Employer)
 - Protected API endpoints and profile retrieval
 
+- <img width="1746" height="868" alt="Screenshot 2026-11-24 222215" src="https://github.com/user-attachments/assets/4aafc798-e083-48ec-bbc0-db031aa25235" />
+
+
 ### Jobseeker
 - Browse and apply for jobs
 - Submit an optional resume URL and cover letter
 - Prevent duplicate applications
 - View application history and status
 
+- <img width="1837" height="756" alt="Screenshot 2026-11-24 224002" src="https://github.com/user-attachments/assets/a88164e2-453a-4f32-a13a-12f774e3fb00" />
+
+
+
 ### Employer
 - Create, edit and delete own job listings
 - View applicants for own jobs, including their resume link and cover letter
 - Update application status (Pending, Reviewed, Shortlisted, Rejected, Selected)
+
+![Uploading Screenshot 2026-11-24 224002.png…]()
 
 ## Tech stack
 - Frontend: React, Vite, Axios, Lucide React
@@ -33,6 +45,9 @@ JobConnect is a responsive full-stack job portal built with React, Vite, Node.js
 - Database: MongoDB Atlas / MongoDB
 - Authentication: JWT and bcryptjs
 - Version control: Git and GitHub
+
+- <img width="1834" height="806" alt="Screenshot 2026-11-24 224014" src="https://github.com/user-attachments/assets/01ed08fe-7544-4275-807f-ced02d612308" />
+
 
 ## Project structure
 
